@@ -6,10 +6,10 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
 <a href = 'https://www.linkedin.com/in/hungnm2008'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/hungnm2008'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 </div>
 
 <h2> Skills </h2>
+
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hadoop.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Reinforcement Learning, Deep Learning, Meta Learning
 
-- 🌱 I’m currently learning Master in Big Data Management and Analysis (with Full-ride scholarship by European Commission)
+- 🌱 I’m currently studying Master in Big Data Management and Analysis (with Full-ride scholarship by European Commission)
 
 - 👯 I’m looking to collaborate on Reinforcement Learning, Deep Learning, Meta Learning
 
